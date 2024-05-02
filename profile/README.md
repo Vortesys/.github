@@ -1,2 +1,2 @@
-# *Freedom* Desktop
-Freedom's Desktop is an organization by freedom7341 to diversify the Windows alternative shell space.
+# Vortex Systems
+Vortesys is an organization led by freedom7341 to diversify the Windows alternative shell space.
