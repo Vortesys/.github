@@ -1,4 +1,4 @@
-<img src="logobkgd.png" width="200" height="200">
+<img src="vsysrgby512.png" width="200" height="200">
 
 # Vortesys
 
